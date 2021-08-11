@@ -1,0 +1,23 @@
+.text-bold {
+  font-weight: bold;
+}
+
+.netflix-font-sans-regular {
+  font-family: "Netflix Sans Regular";
+}
+
+.color-black {
+  color: #000;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.bg-trans-gray {
+  background-color: rgba(109, 109, 110, 0.7);
+}
